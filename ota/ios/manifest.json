@@ -1,0 +1,308 @@
+{
+  "id": "d4d55034-7041-492d-8bec-45a7eb417a32",
+  "createdAt": "2026-10-21T09:54:20.874Z",
+  "runtimeVersion": "1",
+  "launchAsset": {
+    "hash": "efd_mAiZoAP-9pva7UT7IwKBKOOo7vAIX3TBorAUA1Y",
+    "key": "bundle",
+    "contentType": "application/javascript",
+    "fileExtension": ".bundle",
+    "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/efd_mAiZoAP-9pva7UT7IwKBKOOo7vAIX3TBorAUA1Y.bundle"
+  },
+  "assets": [
+    {
+      "hash": "LN_rjlzN55dvcBL7jM5zryIpAp7iHU8VCf7RFIccbNg",
+      "key": "7d40544b395c5949f4646f5e150fe020",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/LN_rjlzN55dvcBL7jM5zryIpAp7iHU8VCf7RFIccbNg.png"
+    },
+    {
+      "hash": "K3RDqaWOksoRpXW9wRWYYVpX3eMFzYznDWAmBrMCzZg",
+      "key": "a132ecc4ba5c1517ff83c0fb321bc7fc",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/K3RDqaWOksoRpXW9wRWYYVpX3eMFzYznDWAmBrMCzZg.png"
+    },
+    {
+      "hash": "Pd0Hc-0n4j0leJ8wFzGzrEVa2L5aonoKG4OPicbSciU",
+      "key": "0ea69b5077e7c4696db85dbcba75b0e1",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/Pd0Hc-0n4j0leJ8wFzGzrEVa2L5aonoKG4OPicbSciU.png"
+    },
+    {
+      "hash": "ku2BdqyMtENipfxqNwNiagAGrGt8snLumfWFAmLsBw4",
+      "key": "2d0a9133e39524f138be6d4db9f4851f",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/ku2BdqyMtENipfxqNwNiagAGrGt8snLumfWFAmLsBw4.png"
+    },
+    {
+      "hash": "mtuMXvypMuK3MrKT2oE70uMZUiYwVrzp4lF_7A8LanY",
+      "key": "0a328cd9c1afd0afe8e3b1ec5165b1b4",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/mtuMXvypMuK3MrKT2oE70uMZUiYwVrzp4lF_7A8LanY.png"
+    },
+    {
+      "hash": "yGu0he7mh-BsUA_EI09RpnhLRTDCrhHQx2SBEQvOMQU",
+      "key": "3cd68ccdb8938e3711da2e8831b85493",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/yGu0he7mh-BsUA_EI09RpnhLRTDCrhHQx2SBEQvOMQU.png"
+    },
+    {
+      "hash": "0Dpc16Zu8QxRR5FvnVh4stCgpa1G9AWjHNmWfvqlWv0",
+      "key": "61ca7e64b7d605716c57706cef640b9a",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/0Dpc16Zu8QxRR5FvnVh4stCgpa1G9AWjHNmWfvqlWv0.png"
+    },
+    {
+      "hash": "q1YT0s5w-mfFkm6DE1NmSUUZn8GV-m_nbF_jzsRS4xo",
+      "key": "aff2c65b39a296d4f7e96d0f58169170",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/q1YT0s5w-mfFkm6DE1NmSUUZn8GV-m_nbF_jzsRS4xo.png"
+    },
+    {
+      "hash": "xOVOagp95jaqFTN4-8YupKQWlb_t-Af5Dfexj_1zP2c",
+      "key": "d8e7601e3df962f83c62371ac14964d8",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/xOVOagp95jaqFTN4-8YupKQWlb_t-Af5Dfexj_1zP2c.png"
+    },
+    {
+      "hash": "IyXFOnPlTEOMu8YN_92LUT1HG6QuL1ZxPvQEuV4Mofw",
+      "key": "0747a1317bbe9c6fc340b889ef8ab3ae",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/IyXFOnPlTEOMu8YN_92LUT1HG6QuL1ZxPvQEuV4Mofw.png"
+    },
+    {
+      "hash": "sbwYEMoj4sOM12lxxDWR1yYWEGEkDYt5KwV1cZbdtSg",
+      "key": "d84e297c3b3e49a614248143d53e40ca",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/sbwYEMoj4sOM12lxxDWR1yYWEGEkDYt5KwV1cZbdtSg.png"
+    },
+    {
+      "hash": "y9-SE-VfZcSNB2rNhCO3ya7k8bgRAf9slaOMTNioZGE",
+      "key": "1190ab078c57159f4245a328118fcd9a",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/y9-SE-VfZcSNB2rNhCO3ya7k8bgRAf9slaOMTNioZGE.png"
+    },
+    {
+      "hash": "0FydMNefRaeOVYWi5-xnxqBqiD3ZE34dUFnoyHszznY",
+      "key": "78c625386b4d0690b421eb0fc78f7b9c",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/0FydMNefRaeOVYWi5-xnxqBqiD3ZE34dUFnoyHszznY.png"
+    },
+    {
+      "hash": "3Fa5dr1FY44RJfZol0NSXmiGrgvvLI9GUZlIM2hagx8",
+      "key": "dad2fa9f4394a630f0f9a0d6dabd44bc",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/3Fa5dr1FY44RJfZol0NSXmiGrgvvLI9GUZlIM2hagx8.png"
+    },
+    {
+      "hash": "7xP8DfxS7COBdYX9fhCfvfWTo7JUnEDOcaybDtoSzCw",
+      "key": "f3a81967828232c893d547162e922764",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/7xP8DfxS7COBdYX9fhCfvfWTo7JUnEDOcaybDtoSzCw.png"
+    },
+    {
+      "hash": "tDSnzxjC1M50fHCULqL-4tRBLZOWftkrNy-BC7kmHqU",
+      "key": "d62ddc38b69aff346c20a28774933d6a",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/tDSnzxjC1M50fHCULqL-4tRBLZOWftkrNy-BC7kmHqU.png"
+    },
+    {
+      "hash": "CKnVtRPPlH4i7egemoQ72Nd2OmNETNIUhL_edmLMZUM",
+      "key": "3f78af31cca60105799838a1a7a59fbd",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/CKnVtRPPlH4i7egemoQ72Nd2OmNETNIUhL_edmLMZUM.ttf"
+    },
+    {
+      "hash": "FvkimFh7qytGm8E8DfxtXRcbyhC60MkFOtFrwCO_cX0",
+      "key": "31b5ffea3daddc69dd01a1f3d6cf63c5",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/FvkimFh7qytGm8E8DfxtXRcbyhC60MkFOtFrwCO_cX0.ttf"
+    },
+    {
+      "hash": "pcrrTTlcXjLx1aMKyzgq68Zk8brf0UkxmQfyIV5OPiY",
+      "key": "140c53a7643ea949007aa9a282153849",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/pcrrTTlcXjLx1aMKyzgq68Zk8brf0UkxmQfyIV5OPiY.ttf"
+    },
+    {
+      "hash": "AriOrZGt5XENfKGO20Omllpx2TcywG8pDMB6bdJJ6Yc",
+      "key": "ca4b48e04dc1ce10bfbddb262c8b835f",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/AriOrZGt5XENfKGO20Omllpx2TcywG8pDMB6bdJJ6Yc.ttf"
+    },
+    {
+      "hash": "lNq58dWxPqB2nRJKLaDQJDPzuZ1t6loHwERqdxWBAMA",
+      "key": "b49ae8ab2dbccb02c4d11caaacf09eab",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/lNq58dWxPqB2nRJKLaDQJDPzuZ1t6loHwERqdxWBAMA.ttf"
+    },
+    {
+      "hash": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg",
+      "key": "b06871f281fee6b241d60582ae9369b9",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg.ttf"
+    },
+    {
+      "hash": "xlG4pn0xkyBvYiw8Ow-8pKLycnEIxCErUsHiouhMmzE",
+      "key": "1f77739ca9ff2188b539c36f30ffa2be",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/xlG4pn0xkyBvYiw8Ow-8pKLycnEIxCErUsHiouhMmzE.ttf"
+    },
+    {
+      "hash": "PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ-A8I",
+      "key": "605ed7926cf39a2ad5ec2d1f9d391d3d",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ-A8I.ttf"
+    },
+    {
+      "hash": "BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI",
+      "key": "3b89dd103490708d19a95adcae52210e",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI.ttf"
+    },
+    {
+      "hash": "ZPn7YjaB8RImHpovl4JngkOfOSXeqPRKV9Hk25W6bP0",
+      "key": "370dd5af19f8364907b6e2c41f45dbbf",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/ZPn7YjaB8RImHpovl4JngkOfOSXeqPRKV9Hk25W6bP0.ttf"
+    },
+    {
+      "hash": "MfCZwT9uS6BfG0cb8XDLVJMklHQiKRc3LePKXPKeaho",
+      "key": "adec7d6f310bc577f05e8fe06a5daccf",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/MfCZwT9uS6BfG0cb8XDLVJMklHQiKRc3LePKXPKeaho.ttf"
+    },
+    {
+      "hash": "vIRLWwLT862rtRTeTgwCCCUtMSNBO9A_Yof6RGrO6Fk",
+      "key": "56c8d80832e37783f12c05db7c8849e2",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/vIRLWwLT862rtRTeTgwCCCUtMSNBO9A_Yof6RGrO6Fk.ttf"
+    },
+    {
+      "hash": "fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal-JM-Y",
+      "key": "e20945d7c929279ef7a6f1db184a4470",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal-JM-Y.ttf"
+    },
+    {
+      "hash": "-iq30lV4GbK_5QCeRoRO-nFwzxd753NdQ6oqwSlfHVQ",
+      "key": "b4eb097d35f44ed943676fd56f6bdc51",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/-iq30lV4GbK_5QCeRoRO-nFwzxd753NdQ6oqwSlfHVQ.ttf"
+    },
+    {
+      "hash": "YeirpaTpgf4iz3yOi82-oAR251xiw38Bv37jM2HWhCg",
+      "key": "6e435534bd35da5fef04168860a9b8fa",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/YeirpaTpgf4iz3yOi82-oAR251xiw38Bv37jM2HWhCg.ttf"
+    },
+    {
+      "hash": "7xSfCL3S_wmk4shXNHa3sPP7sVtiOVSt5ZiZ5xdb7do",
+      "key": "4e85bc9ebe07e0340c9c4fc2f6c38908",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/7xSfCL3S_wmk4shXNHa3sPP7sVtiOVSt5ZiZ5xdb7do.ttf"
+    },
+    {
+      "hash": "m8TZ9emU53S9w--amofadJr19QuGFHPvfRzD1vgikmc",
+      "key": "871378c6eab492a3e689a9385dc45a12",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/m8TZ9emU53S9w--amofadJr19QuGFHPvfRzD1vgikmc.ttf"
+    },
+    {
+      "hash": "P1Ad2wXHCCm7tRz-nKn_9X854GBFfCV7PM8l33Z_CHA",
+      "key": "d2285965fe34b05465047401b8595dd0",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/P1Ad2wXHCCm7tRz-nKn_9X854GBFfCV7PM8l33Z_CHA.ttf"
+    },
+    {
+      "hash": "3Y7kA7vL9eWLd9ykrAPrr6E6KEo9h9jqnKSQQ1qG-kg",
+      "key": "1681f34aaca71b8dfb70756bca331eb2",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://sakaenes.github.io/duo-shift-surumler/ota/files/3Y7kA7vL9eWLd9ykrAPrr6E6KEo9h9jqnKSQQ1qG-kg.ttf"
+    }
+  ],
+  "metadata": {
+    "note": "yenileme simgesi düzeltmesi"
+  },
+  "extra": {
+    "expoClient": {
+      "name": "Duo Shift",
+      "slug": "duoshift",
+      "version": "0.1.1",
+      "orientation": "portrait",
+      "icon": "./assets/icon.png",
+      "userInterfaceStyle": "dark",
+      "backgroundColor": "#0e0f12",
+      "splash": {
+        "image": "./assets/splash-icon.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#0e0f12"
+      },
+      "ios": {
+        "supportsTablet": false,
+        "bundleIdentifier": "com.sakavisio.duoshift",
+        "buildNumber": "1",
+        "infoPlist": {
+          "ITSAppUsesNonExemptEncryption": false,
+          "CFBundleDisplayName": "Duo Shift"
+        }
+      },
+      "web": {
+        "favicon": "./assets/favicon.png",
+        "bundler": "metro"
+      },
+      "plugins": [
+        "@react-native-community/datetimepicker",
+        "expo-updates"
+      ],
+      "runtimeVersion": "1",
+      "updates": {
+        "url": "https://sakaenes.github.io/duo-shift-surumler/ota/ios/manifest.json",
+        "enabled": true,
+        "checkAutomatically": "ON_LOAD",
+        "fallbackToCacheTimeout": 0
+      },
+      "sdkVersion": "58.0.0",
+      "platforms": [
+        "ios",
+        "android",
+        "web"
+      ]
+    }
+  }
+}
